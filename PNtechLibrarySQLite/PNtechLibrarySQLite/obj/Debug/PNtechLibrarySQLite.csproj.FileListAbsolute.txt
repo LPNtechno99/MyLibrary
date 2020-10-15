@@ -1,0 +1,7 @@
+D:\MyProject\MyLibrary\PNtechLibrarySQLite\PNtechLibrarySQLite\bin\Debug\PNtechLibrarySQLite.dll
+D:\MyProject\MyLibrary\PNtechLibrarySQLite\PNtechLibrarySQLite\bin\Debug\PNtechLibrarySQLite.pdb
+D:\MyProject\MyLibrary\PNtechLibrarySQLite\PNtechLibrarySQLite\bin\Debug\System.Data.SQLite.dll
+D:\MyProject\MyLibrary\PNtechLibrarySQLite\PNtechLibrarySQLite\obj\Debug\PNtechLibrarySQLite.csproj.CoreCompileInputs.cache
+D:\MyProject\MyLibrary\PNtechLibrarySQLite\PNtechLibrarySQLite\obj\Debug\PNtechLibrarySQLite.csproj.CopyComplete
+D:\MyProject\MyLibrary\PNtechLibrarySQLite\PNtechLibrarySQLite\obj\Debug\PNtechLibrarySQLite.dll
+D:\MyProject\MyLibrary\PNtechLibrarySQLite\PNtechLibrarySQLite\obj\Debug\PNtechLibrarySQLite.pdb

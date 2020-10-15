@@ -1,0 +1,16 @@
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\bin\Debug\PN_SQLiteLibrary.dll.config
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\bin\Debug\PN_SQLiteLibrary.dll
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\bin\Debug\PN_SQLiteLibrary.pdb
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\bin\Debug\EntityFramework.dll
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\bin\Debug\System.Data.SQLite.dll
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\bin\Debug\System.Data.SQLite.EF6.dll
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\bin\Debug\System.Data.SQLite.Linq.dll
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\bin\Debug\EntityFramework.xml
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\bin\Debug\System.Data.SQLite.xml
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\bin\Debug\System.Data.SQLite.dll.config
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\obj\Debug\PN_SQLiteLibrary.csproj.CoreCompileInputs.cache
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\obj\Debug\PN_SQLiteLibrary.csproj.CopyComplete
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\obj\Debug\PN_SQLiteLibrary.dll
+D:\MyProject\MyLibrary\PN_SQLiteLibrary\PN_SQLiteLibrary\obj\Debug\PN_SQLiteLibrary.pdb
